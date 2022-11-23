@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Robotic";
+  src: url("../Exwayer-X3eqa.ttf");
+}
+
+h1 {
+  font-family: Robotic;
+  font-size: 150px;
+  color: white;
+  margin-bottom: 30px;
+}
